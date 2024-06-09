@@ -1,1 +1,1 @@
-solana chainlink smart contract 
+Chainlinks Solana Blockchain Developer Bootcamp GMSmartContract Exercise  
